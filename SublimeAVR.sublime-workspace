@@ -1,0 +1,1356 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"L",
+				"LEDA"
+			],
+			[
+				"u",
+				"uint8_t"
+			],
+			[
+				"DD",
+				"DDOT"
+			],
+			[
+				"ui",
+				"uint16_t"
+			],
+			[
+				"f",
+				"for"
+			],
+			[
+				"S",
+				"Send_data"
+			],
+			[
+				"fla",
+				"flags"
+			],
+			[
+				"T",
+				"TONE_4K"
+			],
+			[
+				"C",
+				"Clear_display"
+			],
+			[
+				"uint",
+				"uint16_t"
+			],
+			[
+				"Wri",
+				"Write_segment_data"
+			],
+			[
+				"o",
+				"one1"
+			],
+			[
+				"W",
+				"Write_segment_data"
+			],
+			[
+				"a",
+				"a_lenght"
+			],
+			[
+				"0b",
+				"0b1010000110000"
+			],
+			[
+				"Cl",
+				"Clear_display"
+			],
+			[
+				"delay",
+				"delay(500\tabc"
+			],
+			[
+				"SC",
+				"SCL\tabc"
+			],
+			[
+				"DELAY",
+				"DELAY2\tabc"
+			],
+			[
+				"D",
+				"DIO\tabc"
+			],
+			[
+				"O",
+				"ONE\t(7h.h)"
+			],
+			[
+				"d",
+				"display\tabc"
+			],
+			[
+				"fo",
+				"for\tFor Loop"
+			],
+			[
+				"onc",
+				"onchange\tAttr"
+			],
+			[
+				"ra",
+				"raw_array_index\tabc"
+			],
+			[
+				"v",
+				"void\tabc"
+			],
+			[
+				"Se",
+				"Send_display_data\tabc"
+			],
+			[
+				"index",
+				"index\tuint8_t"
+			],
+			[
+				"uin",
+				"uint16_t\ttypedef"
+			],
+			[
+				"main",
+				"main.h\t(main.c)"
+			],
+			[
+				"t",
+				"temp\tuint8_t"
+			],
+			[
+				"st",
+				"star\tuint8_t [8]"
+			],
+			[
+				"_de",
+				"_delay_ms(double __ms)\tvoid"
+			],
+			[
+				"RE",
+				"REG1\tmacro"
+			],
+			[
+				"CL",
+				"CLK2\tmacro"
+			],
+			[
+				"Sem",
+				"Send_command(uint8_t temp)\tvoid"
+			],
+			[
+				"int",
+				"int16_t\ttypedef"
+			],
+			[
+				"Del",
+				"Delay_POR()\tvoid"
+			],
+			[
+				"in",
+				"init\tuint8_t[]"
+			],
+			[
+				"De",
+				"Delay()\tvoid"
+			],
+			[
+				"St",
+				"Stop_condition()\tvoid"
+			],
+			[
+				"tem",
+				"temp2\tuint16_t"
+			],
+			[
+				"te",
+				"temp1\tuint16_t"
+			],
+			[
+				"TO",
+				"TOIE2\tmacro"
+			],
+			[
+				"ua",
+				"uint8_t usart_array\tvolatile[]"
+			],
+			[
+				"us",
+				"usart_data_buffer\ttypedef"
+			],
+			[
+				"int8",
+				"int_fast8_t\ttypedef"
+			],
+			[
+				"CMD",
+				"CMD_NUMBER\tenum usart_data_position"
+			],
+			[
+				"Usart",
+				"USART_init()\tvoid"
+			],
+			[
+				"time_str",
+				"time_str\ttypedef"
+			],
+			[
+				"BR",
+				"BRIGHTNESS_EDIT\tmacro"
+			],
+			[
+				"TM",
+				"TMR_DIVIDER\tmacro"
+			],
+			[
+				"my",
+				"my3"
+			],
+			[
+				"whit",
+				"white2"
+			],
+			[
+				"inc",
+				"inc\t#include <…>"
+			],
+			[
+				"IN",
+				"IND_2\tenum leds"
+			],
+			[
+				"Mn",
+				"MIN_BRIGHT\tmacro"
+			],
+			[
+				"le",
+				"level\tuint8_t"
+			],
+			[
+				"CM",
+				"CMD_NUMBER\tenum usart_data_position"
+			],
+			[
+				"usa",
+				"usart_array\tuint8_t[]"
+			],
+			[
+				"IND",
+				"IND_3\tenum leds"
+			],
+			[
+				"uas",
+				"usart_array\tuint8_t[]"
+			],
+			[
+				"SET",
+				"SET_TIME\tenum bt_commands"
+			],
+			[
+				"p",
+				"project_name"
+			],
+			[
+				"SE",
+				"SEG_DP\tmacro"
+			],
+			[
+				"TI",
+				"TIMER0_OVF_vect\tmacro"
+			],
+			[
+				"R",
+				"RED\tmacro"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "display.c",
+			"settings":
+			{
+				"buffer_size": 9207,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAPIiAAAAAAAA8yIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8iIAAAAAAADyIgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"paste",
+					null,
+					"AQAAAPMiAAAAAAAAQSMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8yIAAAAAAADzIgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAACZIwAAI2luY2x1ZGUgPGF2ci9pby5oPgojaW5jbHVkZSAibWFpbi5oIgojaW5jbHVkZSAiZGlzcGxheS5oIgoKdWludDE2X3QgbGNkX2NvZGVzW11bNF1bN10gPSAKewogICAgeyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyAwCiAgICAgICAge0ExfE1BU0tfQSxCMXxNQVNLX0EsQzF8TUFTS19BLEQxfE1BU0tfQSxFMXxNQVNLX0EsRjF8TUFTS19BLEcxfE1BU0tfQn0sCiAgICAgICAge0EyfE1BU0tfQSxCMnxNQVNLX0EsQzJ8TUFTS19BLEQyfE1BU0tfQSxFMnxNQVNLX0EsRjJ8TUFTS19BLEcyfE1BU0tfQn0sCiAgICAgICAge0EzfE1BU0tfQSxCM3xNQVNLX0EsQzN8TUFTS19BLEQzfE1BU0tfQSxFM3xNQVNLX0EsRjN8TUFTS19BLEczfE1BU0tfQn0sCiAgICAgICAge0E0fE1BU0tfQSxCNHxNQVNLX0EsQzR8TUFTS19BLEQ0fE1BU0tfQSxFNHxNQVNLX0EsRjR8TUFTS19BLEc0fE1BU0tfQn0KICAgIH0sCiAgICB7ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIDEKICAgICAgICB7QTF8TUFTS19CLEIxfE1BU0tfQSxDMXxNQVNLX0EsRDF8TUFTS19CLEUxfE1BU0tfQixGMXxNQVNLX0IsRzF8TUFTS19CfSwKICAgICAgICB7QTJ8TUFTS19CLEIyfE1BU0tfQSxDMnxNQVNLX0EsRDJ8TUFTS19CLEUyfE1BU0tfQixGMnxNQVNLX0IsRzJ8TUFTS19CfSwKICAgICAgICB7QTN8TUFTS19CLEIzfE1BU0tfQSxDM3xNQVNLX0EsRDN8TUFTS19CLEUzfE1BU0tfQixGM3xNQVNLX0IsRzN8TUFTS19CfSwKICAgICAgICB7QTR8TUFTS19CLEI0fE1BU0tfQSxDNHxNQVNLX0EsRDR8TUFTS19CLEU0fE1BU0tfQixGNHxNQVNLX0IsRzR8TUFTS19CfSwKICAgIH0sCiAgICB7ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIDIKICAgICAgICB7QTF8TUFTS19BLEIxfE1BU0tfQSxDMXxNQVNLX0IsRDF8TUFTS19BLEUxfE1BU0tfQSxGMXxNQVNLX0IsRzF8TUFTS19BfSwKICAgICAgICB7QTJ8TUFTS19BLEIyfE1BU0tfQSxDMnxNQVNLX0IsRDJ8TUFTS19BLEUyfE1BU0tfQSxGMnxNQVNLX0IsRzJ8TUFTS19BfSwKICAgICAgICB7QTN8TUFTS19BLEIzfE1BU0tfQSxDM3xNQVNLX0IsRDN8TUFTS19BLEUzfE1BU0tfQSxGM3xNQVNLX0IsRzN8TUFTS19BfSwKICAgICAgICB7QTR8TUFTS19BLEI0fE1BU0tfQSxDNHxNQVNLX0IsRDR8TUFTS19BLEU0fE1BU0tfQSxGNHxNQVNLX0IsRzR8TUFTS19BfSwKICAgIH0sCgogICAgeyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyAzCiAgICAgICAge0ExfE1BU0tfQSxCMXxNQVNLX0EsQzF8TUFTS19BLEQxfE1BU0tfQSxFMXxNQVNLX0IsRjF8TUFTS19CLEcxfE1BU0tfQX0sCiAgICAgICAge0EyfE1BU0tfQSxCMnxNQVNLX0EsQzJ8TUFTS19BLEQyfE1BU0tfQSxFMnxNQVNLX0IsRjJ8TUFTS19CLEcyfE1BU0tfQX0sCiAgICAgICAge0EzfE1BU0tfQSxCM3xNQVNLX0EsQzN8TUFTS19BLEQzfE1BU0tfQSxFM3xNQVNLX0IsRjN8TUFTS19CLEczfE1BU0tfQX0sCiAgICAgICAge0E0fE1BU0tfQSxCNHxNQVNLX0EsQzR8TUFTS19BLEQ0fE1BU0tfQSxFNHxNQVNLX0IsRjR8TUFTS19CLEc0fE1BU0tfQX0sCiAgICB9LAogICAgeyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyA0CiAgICAgICAge0ExfE1BU0tfQixCMXxNQVNLX0EsQzF8TUFTS19BLEQxfE1BU0tfQixFMXxNQVNLX0IsRjF8TUFTS19BLEcxfE1BU0tfQX0sCiAgICAgICAge0EyfE1BU0tfQixCMnxNQVNLX0EsQzJ8TUFTS19BLEQyfE1BU0tfQixFMnxNQVNLX0IsRjJ8TUFTS19BLEcyfE1BU0tfQX0sCiAgICAgICAge0EzfE1BU0tfQixCM3xNQVNLX0EsQzN8TUFTS19BLEQzfE1BU0tfQixFM3xNQVNLX0IsRjN8TUFTS19BLEczfE1BU0tfQX0sCiAgICAgICAge0E0fE1BU0tfQixCNHxNQVNLX0EsQzR8TUFTS19BLEQ0fE1BU0tfQixFNHxNQVNLX0IsRjR8TUFTS19BLEc0fE1BU0tfQX0sCiAgICB9LAogICAgeyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyA1CiAgICAgICAge0ExfE1BU0tfQSxCMXxNQVNLX0IsQzF8TUFTS19BLEQxfE1BU0tfQSxFMXxNQVNLX0IsRjF8TUFTS19BLEcxfE1BU0tfQX0sCiAgICAgICAge0EyfE1BU0tfQSxCMnxNQVNLX0IsQzJ8TUFTS19BLEQyfE1BU0tfQSxFMnxNQVNLX0IsRjJ8TUFTS19BLEcyfE1BU0tfQX0sCiAgICAgICAge0EzfE1BU0tfQSxCM3xNQVNLX0IsQzN8TUFTS19BLEQzfE1BU0tfQSxFM3xNQVNLX0IsRjN8TUFTS19BLEczfE1BU0tfQX0sCiAgICAgICAge0E0fE1BU0tfQSxCNHxNQVNLX0IsQzR8TUFTS19BLEQ0fE1BU0tfQSxFNHxNQVNLX0IsRjR8TUFTS19BLEc0fE1BU0tfQX0sCiAgICB9LAogICAgeyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyA2CiAgICAgICAge0ExfE1BU0tfQSxCMXxNQVNLX0IsQzF8TUFTS19BLEQxfE1BU0tfQSxFMXxNQVNLX0EsRjF8TUFTS19BLEcxfE1BU0tfQX0sCiAgICAgICAge0EyfE1BU0tfQSxCMnxNQVNLX0IsQzJ8TUFTS19BLEQyfE1BU0tfQSxFMnxNQVNLX0EsRjJ8TUFTS19BLEcyfE1BU0tfQX0sCiAgICAgICAge0EzfE1BU0tfQSxCM3xNQVNLX0IsQzN8TUFTS19BLEQzfE1BU0tfQSxFM3xNQVNLX0EsRjN8TUFTS19BLEczfE1BU0tfQX0sCiAgICAgICAge0E0fE1BU0tfQSxCNHxNQVNLX0IsQzR8TUFTS19BLEQ0fE1BU0tfQSxFNHxNQVNLX0EsRjR8TUFTS19BLEc0fE1BU0tfQX0sCiAgICB9LAogICAgeyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyA3CiAgICAgICAge0ExfE1BU0tfQSxCMXxNQVNLX0EsQzF8TUFTS19BLEQxfE1BU0tfQixFMXxNQVNLX0IsRjF8TUFTS19CLEcxfE1BU0tfQn0sCiAgICAgICAge0EyfE1BU0tfQSxCMnxNQVNLX0EsQzJ8TUFTS19BLEQyfE1BU0tfQixFMnxNQVNLX0IsRjJ8TUFTS19CLEcyfE1BU0tfQn0sCiAgICAgICAge0EzfE1BU0tfQSxCM3xNQVNLX0EsQzN8TUFTS19BLEQzfE1BU0tfQixFM3xNQVNLX0IsRjN8TUFTS19CLEczfE1BU0tfQn0sCiAgICAgICAge0E0fE1BU0tfQSxCNHxNQVNLX0EsQzR8TUFTS19BLEQ0fE1BU0tfQixFNHxNQVNLX0IsRjR8TUFTS19CLEc0fE1BU0tfQn0sCiAgICB9LAogICAgeyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyA4CiAgICAgICAge0ExfE1BU0tfQSxCMXxNQVNLX0EsQzF8TUFTS19BLEQxfE1BU0tfQSxFMXxNQVNLX0EsRjF8TUFTS19BLEcxfE1BU0tfQX0sCiAgICAgICAge0EyfE1BU0tfQSxCMnxNQVNLX0EsQzJ8TUFTS19BLEQyfE1BU0tfQSxFMnxNQVNLX0EsRjJ8TUFTS19BLEcyfE1BU0tfQX0sCiAgICAgICAge0EzfE1BU0tfQSxCM3xNQVNLX0EsQzN8TUFTS19BLEQzfE1BU0tfQSxFM3xNQVNLX0EsRjN8TUFTS19BLEczfE1BU0tfQX0sCiAgICAgICAge0E0fE1BU0tfQSxCNHxNQVNLX0EsQzR8TUFTS19BLEQ0fE1BU0tfQSxFNHxNQVNLX0EsRjR8TUFTS19BLEc0fE1BU0tfQX0sCiAgICB9LAogICAgeyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyA5CiAgICAgICAge0ExfE1BU0tfQSxCMXxNQVNLX0EsQzF8TUFTS19BLEQxfE1BU0tfQSxFMXxNQVNLX0IsRjF8TUFTS19BLEcxfE1BU0tfQX0sCiAgICAgICAge0EyfE1BU0tfQSxCMnxNQVNLX0EsQzJ8TUFTS19BLEQyfE1BU0tfQSxFMnxNQVNLX0IsRjJ8TUFTS19BLEcyfE1BU0tfQX0sCiAgICAgICAge0EzfE1BU0tfQSxCM3xNQVNLX0EsQzN8TUFTS19BLEQzfE1BU0tfQSxFM3xNQVNLX0IsRjN8TUFTS19BLEczfE1BU0tfQX0sCiAgICAgICAge0E0fE1BU0tfQSxCNHxNQVNLX0EsQzR8TUFTS19BLEQ0fE1BU0tfQSxFNHxNQVNLX0IsRjR8TUFTS19BLEc0fE1BU0tfQX0sCiAgICB9LAogICAgeyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyAxMCBzcGFjZQogICAgICAgIHtBMXxNQVNLX0IsQjF8TUFTS19CLEMxfE1BU0tfQixEMXxNQVNLX0IsRTF8TUFTS19CLEYxfE1BU0tfQixHMXxNQVNLX0J9LAogICAgICAgIHtBMnxNQVNLX0IsQjJ8TUFTS19CLEMyfE1BU0tfQixEMnxNQVNLX0IsRTJ8TUFTS19CLEYyfE1BU0tfQixHMnxNQVNLX0J9LAogICAgICAgIHtBM3xNQVNLX0IsQjN8TUFTS19CLEMzfE1BU0tfQixEM3xNQVNLX0IsRTN8TUFTS19CLEYzfE1BU0tfQixHM3xNQVNLX0J9LAogICAgICAgIHtBNHxNQVNLX0IsQjR8TUFTS19CLEM0fE1BU0tfQixENHxNQVNLX0IsRTR8TUFTS19CLEY0fE1BU0tfQixHNHxNQVNLX0J9LAogICAgfSwKICAgIHsgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIDExIEgKICAgICAgICB7QTF8TUFTS19CLEIxfE1BU0tfQSxDMXxNQVNLX0EsRDF8TUFTS19CLEUxfE1BU0tfQSxGMXxNQVNLX0EsRzF8TUFTS19BfSwKICAgICAgICB7QTJ8TUFTS19CLEIyfE1BU0tfQSxDMnxNQVNLX0EsRDJ8TUFTS19CLEUyfE1BU0tfQSxGMnxNQVNLX0EsRzJ8TUFTS19BfSwKICAgICAgICB7QTN8TUFTS19CLEIzfE1BU0tfQSxDM3xNQVNLX0EsRDN8TUFTS19CLEUzfE1BU0tfQSxGM3xNQVNLX0EsRzN8TUFTS19BfSwKICAgICAgICB7QTR8TUFTS19CLEI0fE1BU0tfQSxDNHxNQVNLX0EsRDR8TUFTS19CLEU0fE1BU0tfQSxGNHxNQVNLX0EsRzR8TUFTS19BfSwKICAgIH0sCiAgICB7ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyAxMiBMCiAgICAgICAge0ExfE1BU0tfQixCMXxNQVNLX0IsQzF8TUFTS19CLEQxfE1BU0tfQSxFMXxNQVNLX0EsRjF8TUFTS19BLEcxfE1BU0tfQn0sCiAgICAgICAge0EyfE1BU0tfQixCMnxNQVNLX0IsQzJ8TUFTS19CLEQyfE1BU0tfQSxFMnxNQVNLX0EsRjJ8TUFTS19BLEcyfE1BU0tfQn0sCiAgICAgICAge0EzfE1BU0tfQixCM3xNQVNLX0IsQzN8TUFTS19CLEQzfE1BU0tfQSxFM3xNQVNLX0EsRjN8TUFTS19BLEczfE1BU0tfQn0sCiAgICAgICAge0E0fE1BU0tfQixCNHxNQVNLX0IsQzR8TUFTS19CLEQ0fE1BU0tfQSxFNHxNQVNLX0EsRjR8TUFTS19BLEc0fE1BU0tfQn0sCiAgICB9LAogICAgeyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gMTMgRwogICAgICAgIHtBMXxNQVNLX0EsQjF8TUFTS19CLEMxfE1BU0tfQSxEMXxNQVNLX0EsRTF8TUFTS19BLEYxfE1BU0tfQSxHMXxNQVNLX0J9LAogICAgICAgIHtBMnxNQVNLX0EsQjJ8TUFTS19CLEMyfE1BU0tfQSxEMnxNQVNLX0EsRTJ8TUFTS19BLEYyfE1BU0tfQSxHMnxNQVNLX0J9LAogICAgICAgIHtBM3xNQVNLX0EsQjN8TUFTS19CLEMzfE1BU0tfQSxEM3xNQVNLX0EsRTN8TUFTS19BLEYzfE1BU0tfQSxHM3xNQVNLX0J9LAogICAgICAgIHtBNHxNQVNLX0EsQjR8TUFTS19CLEM0fE1BU0tfQSxENHxNQVNLX0EsRTR8TUFTS19BLEY0fE1BU0tfQSxHNHxNQVNLX0J9LAogICAgfSwKICAgIHsgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIDE0IGEKICAgICAgICB7QTF8TUFTS19BLEIxfE1BU0tfQSxDMXxNQVNLX0EsRDF8TUFTS19BLEUxfE1BU0tfQSxGMXxNQVNLX0IsRzF8TUFTS19BfSwKICAgICAgICB7QTJ8TUFTS19BLEIyfE1BU0tfQSxDMnxNQVNLX0EsRDJ8TUFTS19BLEUyfE1BU0tfQSxGMnxNQVNLX0IsRzJ8TUFTS19BfSwKICAgICAgICB7QTN8TUFTS19BLEIzfE1BU0tfQSxDM3xNQVNLX0EsRDN8TUFTS19BLEUzfE1BU0tfQSxGM3xNQVNLX0IsRzN8TUFTS19BfSwKICAgICAgICB7QTR8TUFTS19BLEI0fE1BU0tfQSxDNHxNQVNLX0EsRDR8TUFTS19BLEU0fE1BU0tfQSxGNHxNQVNLX0IsRzR8TUFTS19BfSwKICAgIH0sCiAgICB7ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBEZWdyZWUKICAgICAgICB7QTF8TUFTS19BLEIxfE1BU0tfQSxDMXxNQVNLX0IsRDF8TUFTS19CLEUxfE1BU0tfQixGMXxNQVNLX0EsRzF8TUFTS19BfSwKICAgICAgICB7QTJ8TUFTS19BLEIyfE1BU0tfQSxDMnxNQVNLX0IsRDJ8TUFTS19CLEUyfE1BU0tfQixGMnxNQVNLX0EsRzJ8TUFTS19BfSwKICAgICAgICB7QTN8TUFTS19BLEIzfE1BU0tfQSxDM3xNQVNLX0IsRDN8TUFTS19CLEUzfE1BU0tfQixGM3xNQVNLX0EsRzN8TUFTS19BfSwKICAgICAgICB7QTR8TUFTS19BLEI0fE1BU0tfQSxDNHxNQVNLX0IsRDR8TUFTS19CLEU0fE1BU0tfQixGNHxNQVNLX0EsRzR8TUFTS19BfSwKICAgIH0sCiAgICB7ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIC0gTWludXMKICAgICAgICB7QTF8TUFTS19CLEIxfE1BU0tfQixDMXxNQVNLX0IsRDF8TUFTS19CLEUxfE1BU0tfQixGMXxNQVNLX0IsRzF8TUFTS19BfSwKICAgICAgICB7QTJ8TUFTS19CLEIyfE1BU0tfQixDMnxNQVNLX0IsRDJ8TUFTS19CLEUyfE1BU0tfQixGMnxNQVNLX0IsRzJ8TUFTS19BfSwKICAgICAgICB7QTN8TUFTS19CLEIzfE1BU0tfQixDM3xNQVNLX0IsRDN8TUFTS19CLEUzfE1BU0tfQixGM3xNQVNLX0IsRzN8TUFTS19BfSwKICAgICAgICB7QTR8TUFTS19CLEI0fE1BU0tfQixDNHxNQVNLX0IsRDR8TUFTS19CLEU0fE1BU0tfQixGNHxNQVNLX0IsRzR8TUFTS19BfQogICAgfQp9OwoKdm9pZCBTaWduYWxFeHRlbmRlcih2b2lkKQp7CiAgICBfX2FzbV9fIHZvbGF0aWxlKCJub3AiKTsKICAgIF9fYXNtX18gdm9sYXRpbGUoIm5vcCIpOwogICAgX19hc21fXyB2b2xhdGlsZSgibm9wIik7CiAgICBfX2FzbV9fIHZvbGF0aWxlKCJub3AiKTsKICAgIF9fYXNtX18gdm9sYXRpbGUoIm5vcCIpOwogICAgX19hc21fXyB2b2xhdGlsZSgibm9wIik7CiAgICBfX2FzbV9fIHZvbGF0aWxlKCJub3AiKTsKICAgIF9fYXNtX18gdm9sYXRpbGUoIm5vcCIpOwogICAgX19hc21fXyB2b2xhdGlsZSgibm9wIik7CiAgICBfX2FzbV9fIHZvbGF0aWxlKCJub3AiKTsKICAgIF9fYXNtX18gdm9sYXRpbGUoIm5vcCIpOwogICAgX19hc21fXyB2b2xhdGlsZSgibm9wIik7CiAgICBfX2FzbV9fIHZvbGF0aWxlKCJub3AiKTsKICAgIF9fYXNtX18gdm9sYXRpbGUoIm5vcCIpOwogICAgX19hc21fXyB2b2xhdGlsZSgibm9wIik7CiAgICBfX2FzbV9fIHZvbGF0aWxlKCJub3AiKTsKICAgIF9fYXNtX18gdm9sYXRpbGUoIm5vcCIpOwogICAgX19hc21fXyB2b2xhdGlsZSgibm9wIik7CiAgICBfX2FzbV9fIHZvbGF0aWxlKCJub3AiKTsKICAgIF9fYXNtX18gdm9sYXRpbGUoIm5vcCIpOwp9OwoKdm9pZCBEZWxheSh1aW50MTZfdCBkZWxheSkKewogIGZvciAodWludDE2X3QgaSA9IGRlbGF5OyBpID4wIDsgaS0tKQogIHsKICAgIGZvciAodWludDhfdCBrID0gMjU1OyBrID4wIDsgay0tKQogICAgewogICAgICAgICAgCiAgICB9CiAgfQp9OwoKCnZvaWQgU2VuZF9kYXRhICggdWludDE2X3QgZGF0YSkKewoKUE9SVEQgfD0oMTw8V1IpOwpQT1JURCAmPX4oMTw8Q1MpOwoKZm9yICggaW50OF90IGkgPSAxMjsgaSA+PTAgOyBpLS0pCnsgCiAgICBpZiAoZGF0YSAmICgxPDxpKSkKICAgIHsKICAgIFBPUlREfD0oMTw8REFUQSk7CiAgICB9CiAgICBlbHNlCiAgICB7CiAgICBQT1JURCAmPX4oMTw8REFUQSk7CiAgICB9CgogICAgUE9SVEQgJj1+KDE8PFdSKTsKICAgIFNpZ25hbEV4dGVuZGVyKCk7CiAgICBQT1JURCB8PSgxPDxXUik7CiAgICBTaWduYWxFeHRlbmRlcigpOwoKfQpQT1JURCB8PSgxPDxDUyk7Cn07Cgp2b2lkIFNlbmRfY29tbWFuZCAoIHVpbnQxNl90IGRhdGEpCnsKClBPUlREIHw9KDE8PFdSKTsKUE9SVEQgJj1+KDE8PENTKTsKCmZvciAoIGludDhfdCBpID0gMTE7IGkgPj0wIDsgaS0tKQp7IAogIGlmIChkYXRhICYgKDE8PGkpKQogIHsKICAgUE9SVER8PSgxPDxEQVRBKTsKICB9CiAgZWxzZQogIHsKICAgUE9SVEQgJj1+KDE8PERBVEEpOwogIH0KCiAgUE9SVEQgJj1+KDE8PFdSKTsKICBTaWduYWxFeHRlbmRlcigpOwogIFBPUlREIHw9KDE8PFdSKTsKICBTaWduYWxFeHRlbmRlcigpOwp9ClBPUlREIHw9KDE8PENTKTsKfTsKCnZvaWQgQ2xlYXJfZGlzcGxheSAoIHZvaWQpCnsKdWludDE2X3QgZGF0YSA9IDBiMDAwMTAxMDAwMDAwMDAwMDsgICAgIC8vIDEwMSBXUklURSBjb21tYW5kIDAgQUREUiAwIERBVEEKUE9SVEQgJj1+KDE8PENTKTsKUE9SVEQgfD0oMTw8V1IpOwpmb3IgKCBpbnQ4X3QgaSA9IDEyOyBpID49MCA7IGktLSkKeyAKICAgIFBPUlREICY9figxPDxXUik7CiAgICBpZiAoZGF0YSAmICgxPDxpKSkKICAgIHsKICAgIFBPUlREfD0oMTw8REFUQSk7CiAgICB9CiAgICBlbHNlCiAgICB7CiAgICBQT1JURCAmPX4oMTw8REFUQSk7CiAgICB9CgogICAgUE9SVEQgfD0oMTw8V1IpOwp9CgpQT1JURCAmPX4oMTw8REFUQSk7ClBPUlREIHw9KDE8PFdSKTsKZm9yICh1aW50OF90IGs9MDsgazwxMjc7IGsrKykKewogICAgUE9SVEQgJj1+KDE8PFdSKTsKICAgIFBPUlREIHw9KDE8PFdSKTsKfSAgICAgIApQT1JURCB8PSgxPDxDUyk7Cn07Cgp2b2lkIFdyaXRlX3NlZ21lbnRfZGF0YSh1aW50OF90IGRpZ2l0LCB1aW50OF90IHNlZ21lbnQpCi8qIFdyaXRlIGNvbW1hbmQgSUQgY29kZSBidWlsdCBpbiBkaWdpdHMgYXJyYXkgdmlhIE1BU0tfQSAmIE1BU0tfQiBtYXNrcyAqLyAgCgp7Cgpmb3IgKHVpbnQ4X3QgaSA9IDA7IGkgPCA3OyBpKyspCnsKCiAgICBTZW5kX2RhdGEobGNkX2NvZGVzW2RpZ2l0XVtzZWdtZW50XVtpXSk7Cn0KfTsAAAAAAAAAAPcjAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALCIAAAAAAAAsIgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "display.h",
+			"settings":
+			{
+				"buffer_size": 928,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "main.c",
+			"settings":
+			{
+				"buffer_size": 1388,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "main.h",
+			"settings":
+			{
+				"buffer_size": 666,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "SublimeAVR",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"SublimeAVR",
+					""
+				],
+				[
+					"SublimeAVR",
+					"Rebuild"
+				],
+				[
+					"SublimeAVR",
+					"Clean"
+				],
+				[
+					"SublimeAVR",
+					"Debug"
+				],
+				[
+					"SublimeAVR",
+					"Run"
+				]
+			],
+			[
+				"SublimeAVR",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: Typedef"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Disable Package"
+			],
+			[
+				"colo",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"color s",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				" PackageResource",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"make",
+				"Set Syntax: Makefile"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 238.0,
+		"history":
+		[
+			"make all",
+			"make",
+			"make all:",
+			"make all"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Atmel_projects/LCD/main.h",
+		"/D/Atmel_projects/LCD/main.c",
+		"/D/Atmel_projects/LCD/display.h",
+		"/D/Atmel_projects/LCD/display.c",
+		"/D/Atmel_projects/LCD/Makefile",
+		"/C/Users/Shundra/Downloads/ha0103s.c",
+		"/D/Atmel_projects/LCD/main.h.txt",
+		"/C/Users/Shundra/AppData/Roaming/Sublime Text 3/Packages/Theme - Default/Default.sublime-theme",
+		"/C/Users/Shundra/AppData/Roaming/Sublime Text 3/Packages/Theme - Default/adaptive/Adaptive.sublime-theme",
+		"/D/Atmel_projects/z1/main.c",
+		"/C/Users/Shundra/AppData/Roaming/Sublime Text 3/Packages/SublimeClang/SublimeClang.sublime-settings",
+		"/D/Atmel_projects/3leds/main.c",
+		"/D/Atmel_projects/3leds/Makefile",
+		"/D/Atmel_projects/3leds/settings.h",
+		"/D/Atmel_projects/Oled_I2C/display.h",
+		"/D/Atmel_projects/Oled_I2C/oled.c",
+		"/D/Atmel_projects/Oled_I2C/display.c",
+		"/D/RPI_C/I2C/oled.c",
+		"/c/users/shundra/appdata/local/temp/rpi-zldnhg/oled.c",
+		"/D/Atmel_projects/Oled_I2C/gpio.h",
+		"/c/users/shundra/appdata/local/temp/rpi-ju9kc4/oled.c",
+		"/c/users/shundra/appdata/local/temp/rpi-p99wef/oled.c",
+		"/c/users/shundra/appdata/local/temp/rpi-d4nbws/oled.c",
+		"/D/Atmel_projects/OLED_096_a/display.c",
+		"/c/users/shundra/appdata/local/temp/rpi-26sq22/oled.c",
+		"/c/users/shundra/appdata/local/temp/rpi-i7g6le/main.h",
+		"/c/users/shundra/appdata/local/temp/rpi-tfr7z7/oled.c",
+		"/c/users/shundra/appdata/local/temp/rpi-_q1efv/main.h",
+		"/c/users/shundra/appdata/local/temp/rpi-3mqhm2/oled.c",
+		"/c/users/shundra/appdata/local/temp/rpi-3fhcrf/oled.c",
+		"/c/users/shundra/appdata/local/temp/rpi-zee66p/oled.c",
+		"/c/users/shundra/appdata/local/temp/rpi-d0yi1i/main.h",
+		"/D/Atmel_projects/OLED/oled.c",
+		"/c/users/shundra/appdata/local/temp/rpi-shn3u9/main.c",
+		"/D/Atmel_projects/OLED/pictures.h",
+		"/c/users/shundra/appdata/local/temp/rpi-t04u_4/toggle.c",
+		"/c/users/shundra/appdata/local/temp/rpi-za3_jw/main.c",
+		"/c/users/shundra/appdata/local/temp/rpi-g56i29/toggle.c",
+		"/D/Atmel_projects/LED_1637/main.c",
+		"/D/Atmel_projects/LED_1637/settings.h",
+		"/c/users/shundra/appdata/local/temp/rpi-pnbxof/button.c",
+		"/c/users/shundra/appdata/local/temp/rpi-xy3gts/main.c",
+		"/c/users/shundra/appdata/local/temp/rpi-vjjaok/meandr.c",
+		"/c/users/shundra/appdata/local/temp/rpi-xms6f9/display.h",
+		"/c/users/shundra/appdata/local/temp/rpi-wykvax/display.c",
+		"/c/users/shundra/appdata/local/temp/rpi-0bfbx4/7h.h",
+		"/c/users/shundra/appdata/local/temp/rpi-18jwzg/7h.c",
+		"/c/users/shundra/appdata/local/temp/rpi-i87q5n/7h.c",
+		"/c/users/shundra/appdata/local/temp/rpi-ti4jtf/index.php",
+		"/c/users/shundra/appdata/local/temp/rpi-j_q1_i/index.php",
+		"/c/users/shundra/appdata/local/temp/rpi-kuiye6/index.php",
+		"/c/users/shundra/appdata/local/temp/rpi-var62y/index.php",
+		"/c/users/shundra/appdata/local/temp/rpi-r8bilr/blink.sh",
+		"/c/users/shundra/appdata/local/temp/rpi-0tcw8h/autth.php",
+		"/c/users/shundra/appdata/local/temp/rpi-sm88ki/autth.php",
+		"/c/users/shundra/appdata/local/temp/rpi-gzyf1p/autth.php",
+		"/c/users/shundra/appdata/local/temp/rpi-r3_eny/untitled",
+		"/c/users/shundra/appdata/local/temp/rsub-4ht5vr/index.php",
+		"/c/users/shundra/appdata/local/temp/rsub-qy35tw/autth.php",
+		"/c/users/shundra/appdata/local/temp/rsub-qhivr6/0f",
+		"/c/users/shundra/appdata/local/temp/rsub-4wo9ij/index.php",
+		"/D/Atmel_projects/Test_make/Makefile",
+		"/D/Atmel_projects/Test_make/test_make.c",
+		"/D/Atmel_projects/8x8shu/Makefile",
+		"/D/Atmel_projects/8x8shu/display.c",
+		"/D/Atmel_projects/8x8shu/display.h",
+		"/D/Atmel_projects/8x8shu/main.h",
+		"/D/Atmel_projects/8x8shu/main.c",
+		"/D/DOTNET/array_rotating/out1.txt",
+		"/D/DOTNET/array_rotating/raw_array.txt",
+		"/D/Atmel_projects/Test_1/test_1.c",
+		"/C/Users/Shundra/AppData/Roaming/Sublime Text 3/Packages/AVR/SublimeAVR.sublime-settings",
+		"/D/Atmel_projects/8Segments/Makefile",
+		"/C/Users/Shundra/AppData/Roaming/Sublime Text 3/Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+		"/C/Users/Shundra/AppData/Roaming/Sublime Text 3/Packages/Color Scheme - Default.sublime-package",
+		"/C/Users/Shundra/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/C/Users/Shundra/AppData/Roaming/Sublime Text 3/Packages/User/for.sublime-snippet",
+		"/C/Users/Shundra/AppData/Roaming/Sublime Text 3/Packages/User/if.sublime-snippet",
+		"/D/Atmel_projects/8Segments/main.h",
+		"/D/Atmel_projects/8Segments/main.c",
+		"/D/Atmel_projects/8Segments/SublimeAVR.sublime-project",
+		"/D/Atmel_projects/kirpich/main.c",
+		"/C/Users/Shundra/AppData/Roaming/Sublime Text 3/Packages/User/SublimeAVR.sublime-settings",
+		"/D/Atmel_projects/kirpich/SublimeAVR.sublime-project",
+		"/D/Atmel_projects/P_595/main.c",
+		"/D/Atmel_projects/P_595/Makefile",
+		"/D/Atmel_projects/OLED_096/Makefile",
+		"/D/Atmel_projects/OLED_096/display.c",
+		"/D/Atmel_projects/OLED_096/display.h",
+		"/D/Atmel_projects/OLED_096/gpio.h",
+		"/D/Atmel_projects/OLED_096/gpio.c",
+		"/D/Atmel_projects/OLED_096/images.h",
+		"/D/Atmel_projects/OLED_096/main.c",
+		"/D/Atmel_projects/MAX7219_Matrix_/gpio.h",
+		"/D/Atmel_projects/MAX7219_Matrix_/display.h",
+		"/D/Atmel_projects/MAX7219_Matrix_/gpio.c",
+		"/D/Atmel_projects/MAX7219_Matrix_/display.c",
+		"/D/Atmel_projects/MAX7219_Matrix_/Makefile",
+		"/D/Atmel_projects/MAX7219_Matrix_/main.c",
+		"/D/Atmel_projects/MAX7219_Matrix_/GPIO.h",
+		"/D/Atmel_projects/MAX7219_Matrix/Makefile",
+		"/D/Atmel_projects/MAX7219_Matrix/settings.h",
+		"/D/Atmel_projects/INQUISITOR_TIME/main.c",
+		"/D/Atmel_projects/INQUISITOR_TIME/settings.h",
+		"/D/Atmel_projects/S_Clock_Branch/display.c",
+		"/D/Atmel_projects/S_Clock_Branch/timer.h",
+		"/D/Atmel_projects/S_Clock_Branch/main.h",
+		"/D/Atmel_projects/S_Clock_Branch/display.h",
+		"/D/Atmel_projects/S_Clock_Branch/definitions.h",
+		"/D/Atmel_projects/S_Clock_Branch/usart.h",
+		"/D/Atmel_projects/S_Clock_Branch/gpio.h",
+		"/D/Atmel_projects/S_Clock_Branch/defines.h",
+		"/D/Atmel_projects/S_Clock_Branch/timer.c",
+		"/D/Atmel_projects/S_Clock_Branch/Makefile",
+		"/D/Atmel_projects/S_Clock_Branch/Clock.sublime-project",
+		"/C/Users/Shundra/AppData/Local/Temp/Temp1_avr8-gnu-toolchain-3.6.2.1759-win32.any.x86.zip/avr8-gnu-toolchain-win32_x86/avr/include/avr/interrupt.h",
+		"/D/Atmel_projects/BTS_Clock/Clock.sublime-project",
+		"/D/Atmel_projects/Clock_AN/clock.h",
+		"/D/Atmel_projects/BTS_Clock/clock.h",
+		"/D/Atmel_projects/BTS_Clock/varialbles.h",
+		"/D/Atmel_projects/BTS_Clock/init.c",
+		"/D/Atmel_projects/CL/main.c",
+		"/C/Users/Shundra/AppData/Roaming/Sublime Text 3/Packages/1337 Color Scheme/1337.tmTheme",
+		"/C/Users/Shundra/AppData/Roaming/Sublime Text 3/Packages/1337 Color Scheme/1337.tmTheme.chback",
+		"/C/Users/Shundra/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/C/Users/Shundra/AppData/Roaming/Sublime Text 3/Packages/User/my_snp.sublime-snippet",
+		"/D/Atmel_projects/AN_TESTS/Conditional_transitions/conditional_transitions.c",
+		"/D/Atmel_projects/BTS_Clock/external_function.c"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"asm",
+			"DP3",
+			"DP2",
+			"DP1",
+			"DDOT",
+			"Delay();",
+			"1",
+			"DDOT",
+			"DP3",
+			"DP2",
+			"DP1",
+			"MASK,",
+			"MASK",
+			"4,",
+			"3,",
+			"2,",
+			"1,",
+			"MASK",
+			"DP4",
+			"1",
+			"lcd_codes",
+			"DP4",
+			"1",
+			"one",
+			"1",
+			"_data",
+			"CLK",
+			"title",
+			"themed_title_bar"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"__asm__",
+			"DDOT",
+			"DP3",
+			"DP2",
+			"DP1",
+			"Delay(3000);",
+			"Delay(3000)",
+			"4",
+			"3",
+			"2",
+			"4",
+			"3",
+			"2",
+			"DDOT|MASK_B",
+			"DP3|MASK_B",
+			"DP2|MASK_B",
+			"DP1|MASK_B",
+			"MASK_A,",
+			"MASK_A",
+			"4|MASK_B,",
+			"3|MASK_B,",
+			"2|MASK_B,",
+			"1|MASK_B,",
+			"MASK_A",
+			"DDOT",
+			"4",
+			"3",
+			"2",
+			"4",
+			"3",
+			"2",
+			"4",
+			"3",
+			"2",
+			"4",
+			"3",
+			"2",
+			"4",
+			"3",
+			"2",
+			"4",
+			"3",
+			"2",
+			"4",
+			"3",
+			"2",
+			"4",
+			"3",
+			"2",
+			"4",
+			"3",
+			"2",
+			"4",
+			"3",
+			"2",
+			"4",
+			"3",
+			"2",
+			"DDOT",
+			"4",
+			"3",
+			"2",
+			"4",
+			"3",
+			"2",
+			"4",
+			"3",
+			"2",
+			"d_one",
+			"4",
+			"3",
+			"2",
+			"command",
+			"WR"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "display.c",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9207,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7974,
+								7974
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										8100,
+										8101
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										7906,
+										7907
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3657.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "display.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 928,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 483.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "main.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1388,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "main.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 666,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								520,
+								520
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										661,
+										666
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/hash.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										22,
+										28
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 134.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 157.0
+	},
+	"output.exec":
+	{
+		"height": 284.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "SublimeAVR",
+	"project": "SublimeAVR.sublime-project",
+	"replace":
+	{
+		"height": 81.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Atmel_projects\\8x8shu\\SublimeAVR.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
